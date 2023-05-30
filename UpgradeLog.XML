@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Students">
+</Property><Property Name="Solution File" Value="E:\Christina\Students\Students.sln">
+</Property><Property Name="User Options File" Value="E:\Christina\Students\Students.suo">
+</Property><Property Name="Date" Value="24 ноября 2010 г.">
+</Property><Property Name="Time" Value="16:45">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Students.sln" Description="File successfully backed up as E:\Christina\Students\Backup\Students.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Students.suo" Description="File successfully backed up as E:\Christina\Students\Backup\Students.suo">
+</Event><Event ErrorLevel="0" Project="Students" Source="Students.csproj" Description="Project file successfully backed up as E:\Christina\Students\Backup\Students.csproj">
+</Event><Event ErrorLevel="0" Project="Students" Source="Students.csproj.user" Description="Project user file successfully backed up as E:\Christina\Students\Backup\Students.csproj.user">
+</Event><Event ErrorLevel="0" Project="Students" Source="AddForm.cs" Description="File successfully backed up as E:\Christina\Students\Backup\AddForm.cs">
+</Event><Event ErrorLevel="0" Project="Students" Source="AddForm.Designer.cs" Description="File successfully backed up as E:\Christina\Students\Backup\AddForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Students" Source="AddPayForm.cs" Description="File successfully backed up as E:\Christina\Students\Backup\AddPayForm.cs">
+</Event><Event ErrorLevel="0" Project="Students" Source="AddPayForm.Designer.cs" Description="File successfully backed up as E:\Christina\Students\Backup\AddPayForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Students" Source="AddSubForm.cs" Description="File successfully backed up as E:\Christina\Students\Backup\AddSubForm.cs">
+</Event><Event ErrorLevel="0" Project="Students" Source="AddSubForm.Designer.cs" Description="File successfully backed up as E:\Christina\Students\Backup\AddSubForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Students" Source="LoveForm.cs" Description="File successfully backed up as E:\Christina\Students\Backup\LoveForm.cs">
+</Event><Event ErrorLevel="0" Project="Students" Source="LoveForm.Designer.cs" Description="File successfully backed up as E:\Christina\Students\Backup\LoveForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Students" Source="LovePasswordForm.cs" Description="File successfully backed up as E:\Christina\Students\Backup\LovePasswordForm.cs">
+</Event><Event ErrorLevel="0" Project="Students" Source="LovePasswordForm.Designer.cs" Description="File successfully backed up as E:\Christina\Students\Backup\LovePasswordForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Students" Source="MainForm.cs" Description="File successfully backed up as E:\Christina\Students\Backup\MainForm.cs">
+</Event><Event ErrorLevel="0" Project="Students" Source="MainForm.Designer.cs" Description="File successfully backed up as E:\Christina\Students\Backup\MainForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Students" Source="Program.cs" Description="File successfully backed up as E:\Christina\Students\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="Students" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as E:\Christina\Students\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Students" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as E:\Christina\Students\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Students" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as E:\Christina\Students\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Students" Source="app.config" Description="File successfully backed up as E:\Christina\Students\Backup\app.config">
+</Event><Event ErrorLevel="0" Project="Students" Source="Properties\Settings.settings" Description="File successfully backed up as E:\Christina\Students\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Students" Source="Icon-A-Day 1.0 Icon 33.ico" Description="File successfully backed up as E:\Christina\Students\Backup\Icon-A-Day 1.0 Icon 33.ico">
+</Event><Event ErrorLevel="0" Project="Students" Source="AddForm.resx" Description="File successfully backed up as E:\Christina\Students\Backup\AddForm.resx">
+</Event><Event ErrorLevel="0" Project="Students" Source="AddPayForm.resx" Description="File successfully backed up as E:\Christina\Students\Backup\AddPayForm.resx">
+</Event><Event ErrorLevel="0" Project="Students" Source="AddSubForm.resx" Description="File successfully backed up as E:\Christina\Students\Backup\AddSubForm.resx">
+</Event><Event ErrorLevel="0" Project="Students" Source="LoveForm.resx" Description="File successfully backed up as E:\Christina\Students\Backup\LoveForm.resx">
+</Event><Event ErrorLevel="0" Project="Students" Source="LovePasswordForm.resx" Description="File successfully backed up as E:\Christina\Students\Backup\LovePasswordForm.resx">
+</Event><Event ErrorLevel="0" Project="Students" Source="MainForm.resx" Description="File successfully backed up as E:\Christina\Students\Backup\MainForm.resx">
+</Event><Event ErrorLevel="0" Project="Students" Source="Properties\Resources.resx" Description="File successfully backed up as E:\Christina\Students\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Students" Source="Students.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Students" Source="Students.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Students.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Students.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Students" Source="Students.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
