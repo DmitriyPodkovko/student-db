@@ -43,3 +43,10 @@ E:\Christina\Students\obj\Debug\GenerateResource.read.1.tlog
 E:\Christina\Students\obj\Debug\GenerateResource.write.1.tlog
 E:\Christina\Students\obj\Debug\GenerateResource-ResGen.read.1.tlog
 E:\Christina\Students\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Christina_vs2010\Students\bin\Debug\Students.exe.config
+E:\Christina_vs2010\Students\obj\Debug\Interop.Microsoft.Office.Core.dll
+E:\Christina_vs2010\Students\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+E:\Christina_vs2010\Students\obj\Debug\Interop.VBIDE.dll
+E:\Christina_vs2010\Students\obj\Debug\Students.csproj.ResolveComReference.cache
+E:\Christina_vs2010\Students\obj\Debug\Students.exe
+E:\Christina_vs2010\Students\obj\Debug\Students.pdb
